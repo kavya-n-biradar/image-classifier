@@ -39,7 +39,10 @@ streamlit run app.py
 | Dog | golden retriever | 20.81% |
 | Banana | banana | 67.27% |
 | Pizza | pizza | 40.51% |
-| Car | sports car | 42.23% |
+| Car | sports car | 42.23% | 
+
+![App screenshot 1](screenshots/app-screenshot-1.png)
+![App screenshot 2](screenshots/app-screenshot-2.png)
 
 ## Limitations
 Cartoon and illustration images give low-confidence results, because the model was trained on real photographs. The model also has no "person" class, so images of people give unreliable predictions.
